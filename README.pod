@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 Web-CPAN's Site Assets
+
+This repository contains the assets (such as downloads or tarballs) for the
+Web-CPAN web-site at L<http://web-cpan.shlomifish.org> .
+
